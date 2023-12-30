@@ -16,5 +16,5 @@
 
 # Showcase
 
-![1]()
+![1](https://github.com/PhosmiumDev/Trading-App-PC-x64-x32/blob/main/client-app/291370198-2f7370e2-370d-433f-b092-983ca7d20ce8.png?raw=true)
 
